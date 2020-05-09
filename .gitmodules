@@ -1,0 +1,3 @@
+[submodule "Mooka_UMKM"]
+	path = Mooka_UMKM
+	url = git@github.com:Miftahunajat/Mooka_UMKM.git
