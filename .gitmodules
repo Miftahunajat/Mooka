@@ -1,3 +1,6 @@
 [submodule "Mooka_UMKM"]
 	path = Mooka_UMKM
 	url = git@github.com:Miftahunajat/Mooka_UMKM.git
+[submodule "Mooka_Customer"]
+	path = Mooka_Customer
+	url = git@github.com:Miftahunajat/Mooka_Customer.git
